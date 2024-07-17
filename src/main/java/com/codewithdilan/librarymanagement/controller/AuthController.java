@@ -1,6 +1,5 @@
 package com.codewithdilan.librarymanagement.controller;
 
-package com.librarymanagement.controller;
 
 import com.codewithdilan.librarymanagement.model.User;
 import com.codewithdilan.librarymanagement.service.UserService;
